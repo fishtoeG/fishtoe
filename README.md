@@ -7,9 +7,11 @@
 
 ### GRE-600:
 ![GRE_URL_Image](/GRE_5.5_URL_image-518x345.png)
+#### [GRE_word_list](/GRE_words_601)
 
 ### TOEFL-800:
 ![TOEFL_URL_Image](/TOEFL_5.5_URL_image-518x345.png)
+#### [TOEFL_word_list](/TOEFL_words_801)
 
 
 #### App Description:
