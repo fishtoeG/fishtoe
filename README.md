@@ -15,8 +15,8 @@
 The app provides a very simple, effective deck of vocabulary flashcards that will help you prepare for the American SAT (GRE or TOEFL) exam. It contains the 600 (or 800) important vocabulary words routinely included in these exams.  Each flashcard contains the definition, audio pronunciation, synonyms, usage example and etymology (root) if available.  It also supports multilingual (including translated Chinese, Spanish, Japanese and Korean words for each vocabulary).  This feature is very helpful for the ESL (English as Secondary Language) students to grasp the meaning of the vocabulary.  Once a word is ready for testing, it then can be tested in Quiz.
 
 #### Word list for each app (download):
-[SAT_word_list](/SAT_words_600)
-[GRE_word_list](/GRE_words_600)
+[SAT_word_list](/SAT_words_600)      
+[GRE_word_list](/GRE_words_600)      
 [TOEFL_word_list](/TOEFL_words_800)
 
 #### Support Contact:
