@@ -3,15 +3,15 @@
 
 ### SAT-600:
 ![SAT_URL_Image](/SAT_5.5_URL_image-518x345.png)
-#### [SAT_word_list](/SAT_words_601)
+#### [SAT_word_list](/SAT_words_600) download
 
 ### GRE-600:
 ![GRE_URL_Image](/GRE_5.5_URL_image-518x345.png)
-#### [GRE_word_list](/GRE_words_601)
+#### [GRE_word_list](/GRE_words_600) download
 
 ### TOEFL-800:
 ![TOEFL_URL_Image](/TOEFL_5.5_URL_image-518x345.png)
-#### [TOEFL_word_list](/TOEFL_words_801)
+#### [TOEFL_word_list](/TOEFL_words_800) download
 
 
 #### App Description:
