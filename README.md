@@ -1,4 +1,4 @@
-## Fishtoe App Support:
+## App Support:
 
 
 ### SAT-600:
