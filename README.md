@@ -20,4 +20,4 @@ The app provides a very simple, effective deck of vocabulary flashcards that wil
 [TOEFL 800 words list](/TOEFL_words_800)
 
 #### Support Contact:
-Any suggestions to improve our app would be greatly appreciated.  To report software bugs or issues, please send us an email at fishtoebug@gmail.com (with Subject: SAT 600 (v1.0) - iOS version and type of the device.).  We only support iOS version 16.5 and up currently.
+Any suggestions to improve our app would be greatly appreciated.  To report software bugs or issues, please send us an email at fishtoebug@gmail.com (with Subject: SAT 600 (v1.0) - iOS version and type of the device.).  We only support iOS version 16.5 or up currently.
