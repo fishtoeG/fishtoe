@@ -16,7 +16,9 @@ The app provides a very simple, effective deck of vocabulary flashcards that wil
 #### Free download: SAT 600, GRE 600 and TOEFL 800 iPhone apps (available only in Taiwan, Japan and Australia)
 [SAT 600](https://apps.apple.com/tw/app/fishtoe-sat/id1642123199?l=en-GB)       
 [GRE 600](https://apps.apple.com/tw/app/fishtoe-gre/id6443974879?l=en-GB)       
-[TOEFL 800](https://apps.apple.com/tw/app/fishtoe-toefl/id6449369741?l=en-GB)       
+[TOEFL 800](https://apps.apple.com/tw/app/fishtoe-toefl/id6449369741?l=en-GB)     
+[](/SAT_GRE_TOEFL-QRcode-1024x295.png)     
+     
 
 #### To download the flashcard word list:
 [SAT 600 word list](/SAT_words_600)      
