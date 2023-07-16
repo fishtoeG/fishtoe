@@ -18,7 +18,7 @@ The app provides a very simple, effective deck of vocabulary flashcards that wil
 [GRE 600 app](https://apps.apple.com/tw/app/fishtoe-gre/id6443974879?l=en-GB)       
 [TOEFL 800 app](https://apps.apple.com/tw/app/fishtoe-toefl/id6449369741?l=en-GB)       
 
-#### To download the app with QR code:
+#### To download the free app with QR code:
 ![ ](/SAT_GRE_TOEFL-QRcode-550x160.png)     
      
 
