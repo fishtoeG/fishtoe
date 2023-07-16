@@ -18,14 +18,14 @@ The app provides a very simple, effective deck of vocabulary flashcards that wil
 [GRE 600](https://apps.apple.com/tw/app/fishtoe-gre/id6443974879?l=en-GB)       
 [TOEFL 800](https://apps.apple.com/tw/app/fishtoe-toefl/id6449369741?l=en-GB)       
 
-#### To download the free app with QR code:
+#### Scan the QR code to download the free app:
 ![ ](/SAT_GRE_TOEFL-QRcode-550x160.png)     
      
 
 #### Tap to display the flashcard word list:              
 [SAT 600 flashcard word list](https://github.com/fishtoeG/fishtoe/wiki/SAT_words_600)      
 [GRE 600 flashcard word list](https://github.com/fishtoeG/fishtoe/wiki/GRE_words_600)      
-[TOEFL 800 flashcard word list](https://github.com/fishtoeG/fishtoe/wiki/TOEFL_words_600)
+[TOEFL 800 flashcard word list](https://github.com/fishtoeG/fishtoe/wiki/TOEFL_words_800)
 
 #### Support Contact:
 Any suggestions to improve our app would be greatly appreciated.  To report software bugs or issues, please send us an email at fishtoebug@gmail.com (with Subject: SAT 600 (v1.0) - iOS version and type of the device.).  Currently, we only support iOS 16.5 or later.
