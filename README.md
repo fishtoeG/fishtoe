@@ -23,6 +23,7 @@ The app provides a very simple, effective deck of vocabulary flashcards that wil
      
 
 #### Tap to download the flashcard word list:
+* [SAT_words_600](https://github.com/fishtoeG/fishtoe/SAT_words_600)
 [SAT 600 flashcard word list](/SAT_words_600)      
 [GRE 600 flashcard word list](/GRE_words_600)      
 [TOEFL 800 flashcard word list](/TOEFL_words_800)
