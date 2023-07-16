@@ -23,9 +23,9 @@ The app provides a very simple, effective deck of vocabulary flashcards that wil
      
 
 #### Tap to download the flashcard word list:
-[SAT 600 word list](/SAT_words_600)      
-[GRE 600 word list](/GRE_words_600)      
-[TOEFL 800 word list](/TOEFL_words_800)
+[SAT 600 vocabulary word list](/SAT_words_600)      
+[GRE 600 vocabulary word list](/GRE_words_600)      
+[TOEFL 800 vocabulary word list](/TOEFL_words_800)
 
 #### Support Contact:
 Any suggestions to improve our app would be greatly appreciated.  To report software bugs or issues, please send us an email at fishtoebug@gmail.com (with Subject: SAT 600 (v1.0) - iOS version and type of the device.).  Currently, we only support iOS 16.5 or later.
