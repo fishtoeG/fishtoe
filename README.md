@@ -22,11 +22,10 @@ The app provides a very simple, effective deck of vocabulary flashcards that wil
 ![ ](/SAT_GRE_TOEFL-QRcode-550x160.png)     
      
 
-#### Tap to download the flashcard word list:
-[SAT_words_600](https://github.com/fishtoeG/fishtoe/wiki/SAT_words_600)        
-[SAT 600 flashcard word list](/SAT_words_600)      
-[GRE 600 flashcard word list](/GRE_words_600)      
-[TOEFL 800 flashcard word list](/TOEFL_words_800)
+#### Tap to display the flashcard word list:              
+[SAT 600 flashcard word list](https://github.com/fishtoeG/fishtoe/wiki/SAT_words_600)      
+[GRE 600 flashcard word list](https://github.com/fishtoeG/fishtoe/wiki/GRE_words_600)      
+[TOEFL 800 flashcard word list](https://github.com/fishtoeG/fishtoe/wiki/TOEFL_words_600)
 
 #### Support Contact:
 Any suggestions to improve our app would be greatly appreciated.  To report software bugs or issues, please send us an email at fishtoebug@gmail.com (with Subject: SAT 600 (v1.0) - iOS version and type of the device.).  Currently, we only support iOS 16.5 or later.
