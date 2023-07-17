@@ -22,7 +22,7 @@ The app provides a very simple, effective deck of vocabulary flashcards that wil
 ![ ](/SAT_GRE_TOEFL-QRcode-550x160.png)     
      
 
-#### Tap to display the flashcard word list:              
+#### Tap to see the flashcard word list:              
 [SAT 600 flashcard word list](https://github.com/fishtoeG/fishtoe/wiki/SAT_words_600)      
 [GRE 600 flashcard word list](https://github.com/fishtoeG/fishtoe/wiki/GRE_words_600)      
 [TOEFL (IELTS) 800 flashcard word list](https://github.com/fishtoeG/fishtoe/wiki/TOEFL_words_800)
