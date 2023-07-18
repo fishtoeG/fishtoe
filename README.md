@@ -11,7 +11,7 @@
 
 
 #### App Description:
-The app provides a very simple, effective deck of vocabulary flashcards that will help you prepare for the American SAT (or GRE or TOEFL) exam. It contains the 600 important vocabulary words routinely included in the exam.  Each vocabulary flashcard contains the definition, audio pronunciation, synonyms, usage example and etymology (root) if available.  It also includes English to Chinese, Spanish, Japanese and Korean translations in each flashcard.  This feature is very helpful for the ESL (English as Secondary Language) students to grasp the meaning of the vocabulary words.  Once a word is done for studying, it then can be tested in Quiz.
+The app provides a very simple, effective deck of vocabulary flashcards that will help you prepare for the American SAT (or GRE or TOEFL) exam. It contains the 600 important vocabulary words routinely included in the exam.  Each vocabulary flashcard contains the definition, audio pronunciation, synonyms, usage example and etymology (root) if available.  It also includes English to Chinese, Spanish, Japanese and Korean translations.  This feature is very helpful for the ESL (English as Secondary Language) students to grasp the meaning of the vocabulary words.  Once a word is done for studying, it then can be tested in Quiz.
 
 #### Tap to download the free app:
 [SAT 600](https://apps.apple.com/tw/app/fishtoe-sat/id1642123199?l=en-GB)       
