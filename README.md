@@ -16,7 +16,7 @@ This app comes in three separate versions, all of which contain a simple and eff
 #### Tap to download the free app:
 [SAT 600](https://apps.apple.com/tw/app/fishtoe-sat/id1642123199?l=en-GB)       
 [GRE 600](https://apps.apple.com/tw/app/fishtoe-gre/id6443974879?l=en-GB)       
-[TOEFL (IELTS) 800](https://apps.apple.com/tw/app/fishtoe-toefl/id6449369741?l=en-GB)       
+[TOEFL 800](https://apps.apple.com/tw/app/fishtoe-toefl/id6449369741?l=en-GB)       
 
 #### Scan the QR code to download the free app:
 ![ ](/SAT_GRE_TOEFL-QRcode-550x160.png)     
